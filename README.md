@@ -1,23 +1,20 @@
 # Code Quiz
 
 ## Purpose
-XXX
-* XXX
-* XXX
-    - XXX
-    - XXX
-    - XXX
-    - XXX
-
+This code quiz is creatd to help coder to become familiar with coding tests and give a chance to apply the skills to the future career.
+This is a typical coding assessment which is a combination of multiple-choice questions and interactive coding challenges.
+User of this code could continuously add more code questions to the code for self-study and other reason. Users could also modify the reasonable time limit depending on the number of code questions.
+Besides the focus on code assessment, other users could modify this code for other educational materials.
 
 ## Built With
 * HTML
 * CSS
 * Javascript
+* Bootstrap
 
 
 ## Website
-Placeholder
+https://khanhlam90.github.io/code-quiz/
 
 ## Contribution
 Self-Built and online-research (such as https://stackoverflow.com/ and https://www.w3schools.com/)

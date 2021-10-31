@@ -23,10 +23,10 @@ li {
     background: rgb(231, 71, 231);
 }
 
-#startquiz, #gobackquiz, #clear, #submit {
+#startquiz, #gobackquiz, #clear, #submit, #clearhighscore {
     background: rgb(47, 13, 110);
 }
-#startquiz:hover, #gobackquiz:hover, #clear:hover, #submit:hover {
+#startquiz:hover, #gobackquiz:hover, #clear:hover, #submit:hover, #clearhighscore:hover {
     cursor: pointer;
     background: rgb(231, 71, 231);
 }
