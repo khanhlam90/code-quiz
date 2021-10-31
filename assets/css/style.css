@@ -1,78 +1,39 @@
-#quiz-area h1 {
- font-weight: bold;
- font-size: 50px;
-}
-
-#quiz-area p {
-    font-size: 20px;
-    font-weight: normal;
-   }
-
 header a {
-    text-decoration: none;
-    color: rgb(35, 35, 221);
-    font-size: 20px;
+    color: rgb(231, 71, 231);
+    font-size: 17px;
+}
+#timelapse {
+    font-size: 17px;
 }
 
-#timer {
-    color: rgb(35, 35, 221);
-    font-size: 20px;
+#quizarea {
+    font-size: 25px;
 }
 
-#quiz-area {
-    font-weight: bold;
-    font-size: 20px;
-    width: 90%;
-    text-align: left;
-    margin-left: 20px;
-}
-ol {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-start;
-    width: 80%;
-}
 li {
-    list-style-type:none;
-    border-radius: 25px;
-    background: #06bdbd;
-    margin-top: 5px;
-    flex: 100%;
-    font-size: 18px;
-    color: white;
     font-weight: normal;
+    font-size: 15px;
+    border-radius: 8px; 
+}
+#listyle {
+    background: rgb(47, 13, 110);
+}
+#listyle:hover {
+    cursor: pointer;
+    background: rgb(231, 71, 231);
 }
 
-#createDiv {
-    margin-top: 20px;
-    border-top: 1px solid lightgray;
+#startquiz, #gobackquiz, #clear, #submit {
+    background: rgb(47, 13, 110);
+}
+#startquiz:hover, #gobackquiz:hover, #clear:hover, #submit:hover {
+    cursor: pointer;
+    background: rgb(231, 71, 231);
+}
+
+#alertResponse {
     font-size: 20px;
-    text-align: left;
+    font-style: italic;
+    color: gray;
     font-weight: normal;
-    flex: 100%;
-}
-#createH1, #createLabel, #initials {
-    flex: 100%;
-    font-size: 30px;
-    margin: 15px 0;
-}
-#createLabel {
-    flex: 50%;
-    font-size: 20px;
-    margin: 15px 0;
-}
-#initials {
-    flex: 50%;
-    font-size:20px;
-    margin: 15px 0;
-    max-width: 25%;
-    text-align: left;
-}
-#submit {
-    flex: 100%;
-    text-align: center;
-    margin: 15px 0;
-    background-color: rgb(9, 230, 207);
-    max-width: 25%;
-    
 }
