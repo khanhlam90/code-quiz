@@ -1,9 +1,9 @@
 # Code Quiz
 
 ## Purpose
-This code quiz is creatd to help coder to become familiar with coding tests and give a chance to apply the skills to the future career.
+This code quiz is created to help coder to become familiar with coding tests and give a chance to apply the skills to the future career.
 This is a typical coding assessment which is a combination of multiple-choice questions and interactive coding challenges.
-User of this code could continuously add more code questions to the code for self-study and other reason. Users could also modify the reasonable time limit depending on the number of code questions.
+User of this code could continuously add more code questions to the code for self-study and other reasons. Users could also modify the reasonable time limit depending on the number of code questions.
 Besides the focus on code assessment, other users could modify this code for other educational materials.
 
 ## Built With
