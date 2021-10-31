@@ -28,7 +28,7 @@ Self-Built and online-research (such as https://stackoverflow.com/ and https://w
 ![Screenshot-06](./assets/images/ss6.png)
 ![Screenshot-07](./assets/images/ss7.png)
 ![Screenshot-08](./assets/images/ss8.png)
-
+![Screenshot-09](./assets/images/ss9.png)
 ### Notes
-* Sample screenshots above demonstrate PLACEHOLDER
+* Sample screenshots above demonstrate the landing, quiz, and high-score pages.
 * Sample quiz questions are extracted from the course's module assessments.
