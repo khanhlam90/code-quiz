@@ -110,7 +110,7 @@ function runQuiz(questionIndex) {
         var choiceItem = document.createElement("li");
         choiceItem.textContent = newItem;
         choiceItem.setAttribute("id","listyle");
-        choiceItem.setAttribute("class","mt-3 col-10 col-sm-8 col-md-6 col-lg-6 col-xl-4 text-left list-unstyled text-white");
+        choiceItem.setAttribute("class","mt-3 col-5 text-left list-unstyled text-white");
         quizArea.appendChild(ulCreate);
         ulCreate.appendChild(choiceItem);
         choiceItem.addEventListener("click", (validateAnswer));
